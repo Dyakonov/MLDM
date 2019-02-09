@@ -9,3 +9,5 @@
 канал в телеграмме для общения "MSU_Dyakonov’s_courses": https://t.me/joinchat/DIgJbg8Lec9KKDvWC8L0cg
 
 ### слайды лекций
+
+ДЗ-1 Пройти опрос: **2do ссылка**
