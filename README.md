@@ -6,6 +6,6 @@
 ### страница курса
 пока вся информация по курсу будет размещаться здесь
 
-канал в телеграмме для общения: https://t.me/joinchat/DIgJbg8Lec9KKDvWC8L0cg
+канал в телеграмме для общения "MSU_Dyakonov’s_courses": https://t.me/joinchat/DIgJbg8Lec9KKDvWC8L0cg
 
 ### слайды лекций
