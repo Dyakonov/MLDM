@@ -8,9 +8,11 @@
 
 канал в телеграмме для общения "MSU_Dyakonov’s_courses": https://t.me/joinchat/DIgJbg8Lec9KKDvWC8L0cg
 
+[опрос для слушателей](https://docs.google.com/forms/d/e/1FAIpQLSccjUHHRveAV9txa4cyooAa2vPwDV8VqyGRqH4UWaK_6-vOMQ/viewform)
+
 ### слайды лекций
 
 1. [Вводная лекция](AMD01_intro_15.pdf) (11.02.2019)
 2. [Постановка основных задач](AMD02_intro_class_and_reg_16.pdf) (11.02.2019)
 
-ДЗ-1 Пройти опрос: **2do ссылка**
+ДЗ-1 Пройти [опрос](https://docs.google.com/forms/d/e/1FAIpQLSccjUHHRveAV9txa4cyooAa2vPwDV8VqyGRqH4UWaK_6-vOMQ/viewform)
