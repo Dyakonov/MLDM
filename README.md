@@ -15,4 +15,4 @@
 1. [Вводная лекция](AMD01_intro_15.pdf) (11.02.2019)
 2. [Постановка основных задач](AMD02_intro_class_and_reg_19.pdf) (11.02.2019)
 
-ДЗ-1 Пройти [опрос](https://docs.google.com/forms/d/e/1FAIpQLSccjUHHRveAV9txa4cyooAa2vPwDV8VqyGRqH4UWaK_6-vOMQ/viewform)
+**ДЗ-1** Пройти [опрос](https://docs.google.com/forms/d/e/1FAIpQLSccjUHHRveAV9txa4cyooAa2vPwDV8VqyGRqH4UWaK_6-vOMQ/viewform)
