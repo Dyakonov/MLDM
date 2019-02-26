@@ -20,3 +20,5 @@
 3. [Математика в машинном обучении: краткий обзор](AMD03_math_39.pdf) (18.02.2019)
 4. [Оптимизация](AMD04_optimization_09.pdf) (25.02.2019)
 5. [Метрические алгоритмы](AMD06_metric_18.pdf) (25.02.2019)
+
+ * **ДЗ-2** Пройти [математический тест](https://docs.google.com/forms/d/e/1FAIpQLScWC8tcQ-le8RJI9H2wJpQYQrH9bbHpCi12vbtrBCOgwqS-Lg/viewform?fbzx=-3783970256306754859)
