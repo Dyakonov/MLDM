@@ -22,3 +22,6 @@
 5. [Метрические алгоритмы](AMD06_metric_18.pdf) (25.02.2019)
 
  * **ДЗ-2** Пройти [математический тест](https://docs.google.com/forms/d/e/1FAIpQLScWC8tcQ-le8RJI9H2wJpQYQrH9bbHpCi12vbtrBCOgwqS-Lg/viewform?fbzx=-3783970256306754859) (26.02.2019)
+ 
+ 6. [Линейные методы](AMD07_linear_29.pdf) (04.03.2019)
+
