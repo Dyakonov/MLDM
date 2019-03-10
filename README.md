@@ -30,3 +30,4 @@
    * в помощь - [пример решения](https://github.com/Dyakonov/notebooks/blob/master/dj_benchmark_GMSC_01.ipynb)
 
 7. [Решающие деревья](AMD09_tree_20.pdf) (11.03.2019)
+8. [Контроль качества и выбор модели](AMD12_control_21.pdf) (18.03.2019)
