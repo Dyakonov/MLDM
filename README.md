@@ -10,6 +10,8 @@
 
 [опрос для слушателей](https://docs.google.com/forms/d/e/1FAIpQLSccjUHHRveAV9txa4cyooAa2vPwDV8VqyGRqH4UWaK_6-vOMQ/viewform)
 
+**NEW** [выполнение заданий](https://docs.google.com/spreadsheets/d/1PvMQLSfjFbPN13fMDJxixG52ZAmqP1szPz5GNKUpHes/edit?usp=sharing)
+
 ### слайды лекций
 
 1. [Вводная лекция](AMD01_intro_15.pdf) (11.02.2019)
