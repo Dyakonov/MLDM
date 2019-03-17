@@ -36,3 +36,5 @@
 8. [Контроль качества и выбор модели](AMD12_control_21.pdf) (18.03.2019)
 
  * **ДЗ-3** Пройти [тест по метрическим и линейным алгоритмам](https://docs.google.com/forms/d/e/1FAIpQLScETwt1mfhyKTUdlm7xptqFvkF2rL_HYI2c0Q4kkWrAUQ6mig/viewform) (18.03.2019 - срок неделя)
+
+9. [Ансамбли алгоритмов машинного обучения](PZAD2018_06_ensemble_10.pdf) (25.03.2019 из ПЗАДа)
