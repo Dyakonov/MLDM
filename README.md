@@ -34,3 +34,5 @@
 
 7. [Решающие деревья](AMD09_tree_20.pdf) (11.03.2019)
 8. [Контроль качества и выбор модели](AMD12_control_21.pdf) (18.03.2019)
+
+ * **ДЗ-3** Пройти [тест по метрическим и линейным алгоритмам](https://docs.google.com/forms/d/e/1FAIpQLScWC8tcQ-le8RJI9H2wJpQYQrH9bbHpCi12vbtrBCOgwqS-Lg/viewform) (18.03.2019 - срок неделя)
