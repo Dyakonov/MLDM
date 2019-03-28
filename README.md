@@ -35,7 +35,10 @@
 7. [Решающие деревья](AMD09_tree_20.pdf) (11.03.2019)
 8. [Контроль качества и выбор модели](AMD12_control_21.pdf) (18.03.2019)
 
- * **ДЗ-3** Пройти [тест по метрическим и линейным алгоритмам](https://docs.google.com/forms/d/e/1FAIpQLScETwt1mfhyKTUdlm7xptqFvkF2rL_HYI2c0Q4kkWrAUQ6mig/viewform) (18.03.2019 - срок неделя)
+ * **ДЗ-4** Пройти [тест по метрическим и линейным алгоритмам](https://docs.google.com/forms/d/e/1FAIpQLScETwt1mfhyKTUdlm7xptqFvkF2rL_HYI2c0Q4kkWrAUQ6mig/viewform) (18.03.2019 - срок неделя)
 
 9. [Ансамбли алгоритмов машинного обучения](PZAD2018_06_ensemble_10.pdf) (25.03.2019 из ПЗАДа)
 10. [Методы, основанные на деревьях: случайный лес, бустинг](AMD10_simpleRFgbm_03.pdf) (25.03.2019)
+
+ * **Срок для разминочного ДЗ-3**: 31.03.2019
+ * **ДЗ-5 для опытных** - участие в соревновании https://boosters.pro/championship/rekko_challenge
