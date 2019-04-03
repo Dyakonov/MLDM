@@ -12,6 +12,8 @@
 
 **NEW** [выполнение заданий](https://docs.google.com/spreadsheets/d/1aeg_EdzKE_auNFfmMB_aFtcpB4bKud2dB-oI5h_cdjc/edit?usp=sharing) (версия 03.04.2019)
 
+
+
 ### слайды лекций
 
 1. [Вводная лекция](AMD01_intro_15.pdf) (11.02.2019)
