@@ -46,4 +46,4 @@
 
 11. [Введение в рекомендательные системы](AMD22_simplerecsys_01.pdf) (01.04.2019 упрощённая версия из ПЗАДа)
 
- * **ДЗ-6** [тест по деревьям и контролю](Пройтиhttps://docs.google.com/forms/d/e/1FAIpQLSebxPEXjOL3og32H3yipSYz7GSMb6XAXXW9JYdf-jlT1GsjZQ/viewform)
+ * **ДЗ-6** Пройти [тест по деревьям и контролю](https://docs.google.com/forms/d/e/1FAIpQLSebxPEXjOL3og32H3yipSYz7GSMb6XAXXW9JYdf-jlT1GsjZQ/viewform)
