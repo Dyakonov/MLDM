@@ -10,7 +10,7 @@
 
 [опрос для слушателей](https://docs.google.com/forms/d/e/1FAIpQLSccjUHHRveAV9txa4cyooAa2vPwDV8VqyGRqH4UWaK_6-vOMQ/viewform)
 
-**NEW** [выполнение заданий](https://docs.google.com/spreadsheets/d/1LCk_2wVG5SUGO_erk7p_Gotz6lVSHps3dEA4JlyZZR0/edit?usp=sharing)
+**NEW** [выполнение заданий](https://docs.google.com/spreadsheets/d/1aeg_EdzKE_auNFfmMB_aFtcpB4bKud2dB-oI5h_cdjc/edit?usp=sharing) (версия 03.04.2019)
 
 ### слайды лекций
 
