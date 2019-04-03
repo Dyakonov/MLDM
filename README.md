@@ -42,6 +42,8 @@
 
  * **Срок для разминочного ДЗ-3**: 31.03.2019
  * **ДЗ-5 для опытных** - участие в соревновании https://boosters.pro/championship/rekko_challenge (смотрите на срок соревнования)
- * **ДЗ-5 для новичков** - участие в соревновании https://inclass.kaggle.com/c/dayofweek/
+ * **ДЗ-5 для новичков** - участие в соревновании https://inclass.kaggle.com/c/dayofweek/ (срок также - 18 апреля, после окончания срока каждый выкладывает свой public kernel!)
 
 11. [Введение в рекомендательные системы](AMD22_simplerecsys_01.pdf) (01.04.2019 упрощённая версия из ПЗАДа)
+
+ * **ДЗ-6** [тест по деревьям и контролю](Пройтиhttps://docs.google.com/forms/d/e/1FAIpQLSebxPEXjOL3og32H3yipSYz7GSMb6XAXXW9JYdf-jlT1GsjZQ/viewform)
