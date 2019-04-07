@@ -51,4 +51,4 @@
 
  * **ДЗ-6** Пройти [тест по деревьям и контролю](https://docs.google.com/forms/d/e/1FAIpQLSebxPEXjOL3og32H3yipSYz7GSMb6XAXXW9JYdf-jlT1GsjZQ/viewform) (03.04.2019 - срок неделя)
 
-11. [Cложность алгоритмов, переобучение, смещение и разброс](AMD13_complexity_12.pdf) (08.04.2019)
+12. [Cложность алгоритмов, переобучение, смещение и разброс](AMD13_complexity_12.pdf) (08.04.2019)
