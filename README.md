@@ -53,3 +53,5 @@
 
 12. [Cложность алгоритмов, переобучение, смещение и разброс](AMD13_complexity_12.pdf) (08.04.2019)
 13. [Последняя лекция: обзорная](AMD30_overview_03.pdf) (15.04.2019)
+
+ * **ДЗ-7** Пройти [тест по ансамблям и сложности](https://docs.google.com/forms/d/e/1FAIpQLSe9RIO2Pb9lqz--M2O3IsTvRt4w9JqFt1olOe4aRNH0AxFjbA/viewform) (14.04.2019 - срок неделя)
