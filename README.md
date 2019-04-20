@@ -10,7 +10,7 @@
 
 [опрос для слушателей](https://docs.google.com/forms/d/e/1FAIpQLSccjUHHRveAV9txa4cyooAa2vPwDV8VqyGRqH4UWaK_6-vOMQ/viewform)
 
-**NEW** [выполнение заданий](https://docs.google.com/spreadsheets/d/1aeg_EdzKE_auNFfmMB_aFtcpB4bKud2dB-oI5h_cdjc/edit?usp=sharing) (версия 03.04.2019)
+**NEW** [выполнение заданий](https://docs.google.com/spreadsheets/d/1aeg_EdzKE_auNFfmMB_aFtcpB4bKud2dB-oI5h_cdjc/edit?usp=sharing) (версия 21.04.2019)
 
 ### простановка зачёта
 
