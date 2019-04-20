@@ -10,11 +10,12 @@
 
 [опрос для слушателей](https://docs.google.com/forms/d/e/1FAIpQLSccjUHHRveAV9txa4cyooAa2vPwDV8VqyGRqH4UWaK_6-vOMQ/viewform)
 
-**NEW** [выполнение заданий](https://docs.google.com/spreadsheets/d/1aeg_EdzKE_auNFfmMB_aFtcpB4bKud2dB-oI5h_cdjc/edit?usp=sharing) (версия 21.04.2019)
+[выполнение заданий](https://docs.google.com/spreadsheets/d/1aeg_EdzKE_auNFfmMB_aFtcpB4bKud2dB-oI5h_cdjc/edit?usp=sharing) (версия 21.04.2019)
 
 ### простановка зачёта
 
 22.04.2019 (понедельник) в следующие интервалы времени: 11:30 - 12:30, 16:20 - 17:20, 18:30 - 19:00 (на кафедре ММП - в 680к). Заполняете в зачётке всё, чтобы лектору оставалось только расписаться.
+**NEW** [заключительный опрос по курсу](https://docs.google.com/forms/d/e/1FAIpQLSeijtuK3Ff4gyTYun9gWK6BZPoPUYf9Vl-0mTNAkUQE6vzIDA/viewform)
 
 ### слайды лекций
 
