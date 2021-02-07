@@ -7,6 +7,7 @@
 ### страница курса
 
 **Создана телеграм-группа курса**: https://t.me/joinchat/GuHzDV7fH_bIE_Z2
+
 **Создан курс в классруме:** код tzrtndw https://classroom.google.com/c/MjY5NjI3NTQ3MjMw?cjc=tzrtndw
 (может быть, вход возможен только для имеющих почту @gse.cs.msu.ru)
 
